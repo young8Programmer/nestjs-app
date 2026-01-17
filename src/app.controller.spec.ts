@@ -1,4 +1,5 @@
 // bundle size optimallashtirildi
+// ESLint qoidalariga moslashtirish
 import { Test, TestingModule } from '@nestjs/testing';
 // bundle size optimallashtirildi
 // component testlari yaratildi
