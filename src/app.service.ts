@@ -1,4 +1,5 @@
 // CORS xatosi tuzatildi
+// package.json yangilandi
 import { Injectable } from '@nestjs/common';
 // kod uslubini yaxshilash
 // database querylarni optimallashtirish
