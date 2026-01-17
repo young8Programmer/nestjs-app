@@ -5,6 +5,7 @@ import { AppModule } from './app.module';
 
 // database testlari qo'shildi
 // dependencies yangilandi
+// API endpoint testlari qo'shildi
 // user authentication qo'shildi
 // authentication xatosi tuzatildi
 // real-time notifications implementatsiya qilindi
