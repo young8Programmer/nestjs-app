@@ -5,6 +5,7 @@ import Redis from 'ioredis';
 
 // prettier formatlash
 @Injectable()
+// product catalog funksiyasi qo'shildi
 // kod strukturasini yaxshilash
 export class RedisService {
 // middleware funksiyalari qo'shildi
