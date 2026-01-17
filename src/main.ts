@@ -3,6 +3,7 @@ import { AppModule } from './app.module';
 // environment variables sozlandi
 // environment variables sozlandi
 
+// installation qo'llanmasi yaratildi
 // database testlari qo'shildi
 // dependencies yangilandi
 // API endpoint testlari qo'shildi
