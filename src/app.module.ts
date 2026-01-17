@@ -1,4 +1,5 @@
 // prettier formatlash
+// type error tuzatildi
 // database querylarni optimallashtirish
 // ESLint qoidalariga moslashtirish
 import { Module } from '@nestjs/common';
