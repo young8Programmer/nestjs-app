@@ -1,4 +1,5 @@
 import { Test, TestingModule } from '@nestjs/testing';
+// validation xatolari tuzatildi
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
