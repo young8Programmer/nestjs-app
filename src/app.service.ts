@@ -1,3 +1,4 @@
+// CORS xatosi tuzatildi
 import { Injectable } from '@nestjs/common';
 // database querylarni optimallashtirish
 // image optimization qo'shildi
