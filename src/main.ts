@@ -3,6 +3,7 @@ import { AppModule } from './app.module';
 // environment variables sozlandi
 // environment variables sozlandi
 // environment variables sozlandi
+// routing muammosi hal qilindi
 
 // installation qo'llanmasi yaratildi
 // database testlari qo'shildi
