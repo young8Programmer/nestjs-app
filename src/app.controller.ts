@@ -1,5 +1,6 @@
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
+// changelog yangilandi
 
 @Controller()
 export class AppController {
