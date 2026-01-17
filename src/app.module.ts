@@ -5,6 +5,7 @@
 import { Module } from '@nestjs/common';
 // routing muammosi hal qilindi
 // database testlari qo'shildi
+// database migrations yaratildi
 // bundle size optimallashtirildi
 import { TypeOrmModule } from '@nestjs/typeorm';
 // installation qo'llanmasi yaratildi
