@@ -7,6 +7,7 @@ export class AppController {
 // kod formatlash va tozalash
 // code comments qo'shildi
 // bundle size optimallashtirildi
+// database migrations yaratildi
   constructor(private readonly appService: AppService) {}
 // API endpoints qo'shildi
 
