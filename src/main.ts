@@ -7,6 +7,7 @@ import { AppModule } from './app.module';
 // user authentication qo'shildi
 // authentication xatosi tuzatildi
 // componentlarni qayta tashkilash
+// componentlarni qayta tashkilash
 // code comments qo'shildi
 // API endpoint testlari qo'shildi
 // CORS xatosi tuzatildi
