@@ -1,3 +1,4 @@
+// component testlari yaratildi
 // prettier formatlash
 // type error tuzatildi
 // database querylarni optimallashtirish
