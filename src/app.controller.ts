@@ -7,6 +7,7 @@ export class AppController {
   constructor(private readonly appService: AppService) {}
 
 // componentlarni qayta tashkilash
+// code comments qo'shildi
   @Get()
   getHello(): string {
 // README faylini yangilash
