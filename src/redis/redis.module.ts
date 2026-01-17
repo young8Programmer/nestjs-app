@@ -1,4 +1,5 @@
 // database migrations yaratildi
+// database migrations yaratildi
 import { Module } from '@nestjs/common';
 import { RedisService } from './redis.service';
 // code comments qo'shildi
