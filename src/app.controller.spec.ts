@@ -3,6 +3,7 @@ import { Test, TestingModule } from '@nestjs/testing';
 // API endpoint testlari qo'shildi
 // database connection muammosi hal qilindi
 // validation xatolari tuzatildi
+// database connection muammosi hal qilindi
 // API endpoints qo'shildi
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
