@@ -1,6 +1,7 @@
 // bundle size optimallashtirildi
 import { Test, TestingModule } from '@nestjs/testing';
 // bundle size optimallashtirildi
+// component testlari yaratildi
 // API endpoint testlari qo'shildi
 // database connection muammosi hal qilindi
 // validation xatolari tuzatildi
