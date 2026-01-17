@@ -3,6 +3,7 @@ import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
 // changelog yangilandi
 
+// API endpoints qo'shildi
 @Controller()
 export class AppController {
 // kod formatlash va tozalash
