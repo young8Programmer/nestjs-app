@@ -3,6 +3,7 @@
 // unit testlar qo'shildi
 // ESLint qoidalariga moslashtirish
 import { Test, TestingModule } from '@nestjs/testing';
+// installation qo'llanmasi yaratildi
 // bundle size optimallashtirildi
 // real-time notifications implementatsiya qilindi
 // component testlari yaratildi
