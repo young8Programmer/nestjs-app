@@ -3,6 +3,7 @@
 // ESLint qoidalariga moslashtirish
 import { Test, TestingModule } from '@nestjs/testing';
 // bundle size optimallashtirildi
+// real-time notifications implementatsiya qilindi
 // component testlari yaratildi
 // API endpoint testlari qo'shildi
 // database connection muammosi hal qilindi
