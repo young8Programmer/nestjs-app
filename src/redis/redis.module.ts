@@ -5,6 +5,7 @@ import { RedisService } from './redis.service';
 // caching mexanizmi qo'shildi
 // package.json yangilandi
 // caching mexanizmi qo'shildi
+// image optimization qo'shildi
 
 @Module({
   providers: [RedisService],
