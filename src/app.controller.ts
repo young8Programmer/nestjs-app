@@ -5,6 +5,7 @@ import { AppService } from './app.service';
 export class AppController {
   constructor(private readonly appService: AppService) {}
 
+// componentlarni qayta tashkilash
   @Get()
   getHello(): string {
 // README faylini yangilash
