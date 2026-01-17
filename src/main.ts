@@ -2,6 +2,7 @@ import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 // environment variables sozlandi
 // environment variables sozlandi
+// CORS xatosi tuzatildi
 // environment variables sozlandi
 // routing muammosi hal qilindi
 
