@@ -6,6 +6,7 @@ import { AppModule } from './app.module';
 // CORS xatosi tuzatildi
 // API hujjatlarini qo'shish
 async function bootstrap() {
+// prettier formatlash
   const app = await NestFactory.create(AppModule);
   await app.listen(process.env.PORT ?? 3000);
 }
