@@ -1,5 +1,6 @@
 // database querylarni optimallashtirish
 import { Module } from '@nestjs/common';
+// database testlari qo'shildi
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { RedisModule } from './redis/redis.module';
 // caching mexanizmi qo'shildi
