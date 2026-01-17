@@ -5,6 +5,7 @@ import { AppService } from './app.service';
 export class AppController {
 // code comments qo'shildi
   constructor(private readonly appService: AppService) {}
+// API endpoints qo'shildi
 
 // componentlarni qayta tashkilash
 // code comments qo'shildi
