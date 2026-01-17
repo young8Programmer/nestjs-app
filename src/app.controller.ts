@@ -4,6 +4,7 @@ import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
 // changelog yangilandi
 
+// database querylarni optimallashtirish
 // API endpoints qo'shildi
 @Controller()
 export class AppController {
