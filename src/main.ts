@@ -3,6 +3,7 @@ import { AppModule } from './app.module';
 
 // database testlari qo'shildi
 // dependencies yangilandi
+// user authentication qo'shildi
 // authentication xatosi tuzatildi
 // componentlarni qayta tashkilash
 // code comments qo'shildi
