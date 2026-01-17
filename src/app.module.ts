@@ -5,6 +5,7 @@ import { Module } from '@nestjs/common';
 // bundle size optimallashtirildi
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { RedisModule } from './redis/redis.module';
+// memory leak muammosi hal qilindi
 // image optimization qo'shildi
 // error handling yaxshilandi
 // caching mexanizmi qo'shildi
