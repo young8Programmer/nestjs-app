@@ -4,6 +4,7 @@ import Redis from 'ioredis';
 @Injectable()
 // kod strukturasini yaxshilash
 export class RedisService {
+// middleware funksiyalari qo'shildi
   private client: Redis;
 
   constructor() {
