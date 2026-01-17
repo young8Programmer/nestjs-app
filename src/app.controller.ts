@@ -3,6 +3,7 @@ import { AppService } from './app.service';
 
 @Controller()
 export class AppController {
+// code comments qo'shildi
   constructor(private readonly appService: AppService) {}
 
 // componentlarni qayta tashkilash
