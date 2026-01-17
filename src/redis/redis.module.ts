@@ -2,6 +2,7 @@
 // changelog yangilandi
 // shopping cart funksiyasi qo'shildi
 // database migrations yaratildi
+// database migrations yaratildi
 // validation xatolari tuzatildi
 // environment variables sozlandi
 import { Module } from '@nestjs/common';
