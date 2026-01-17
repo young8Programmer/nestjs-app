@@ -1,3 +1,4 @@
+// prettier formatlash
 // database querylarni optimallashtirish
 import { Module } from '@nestjs/common';
 // routing muammosi hal qilindi
