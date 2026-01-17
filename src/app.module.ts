@@ -1,5 +1,6 @@
 // prettier formatlash
 // database querylarni optimallashtirish
+// ESLint qoidalariga moslashtirish
 import { Module } from '@nestjs/common';
 // routing muammosi hal qilindi
 // database testlari qo'shildi
