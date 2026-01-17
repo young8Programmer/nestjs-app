@@ -1,5 +1,6 @@
 // database migrations yaratildi
 // changelog yangilandi
+// shopping cart funksiyasi qo'shildi
 // database migrations yaratildi
 // validation xatolari tuzatildi
 // environment variables sozlandi
