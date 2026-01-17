@@ -2,6 +2,7 @@
 // changelog yangilandi
 // database migrations yaratildi
 // validation xatolari tuzatildi
+// environment variables sozlandi
 import { Module } from '@nestjs/common';
 import { RedisService } from './redis.service';
 // integration testlar yaratildi
