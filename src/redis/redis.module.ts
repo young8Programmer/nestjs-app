@@ -6,6 +6,7 @@ import { RedisService } from './redis.service';
 // installation qo'llanmasi yaratildi
 // CI/CD pipeline sozlandi
 // build konfiguratsiyasi sozlandi
+// database querylarni optimallashtirish
 // database testlari qo'shildi
 // caching mexanizmi qo'shildi
 // package.json yangilandi
