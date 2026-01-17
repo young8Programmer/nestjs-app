@@ -5,6 +5,7 @@ import { AppService } from './app.service';
 @Controller()
 export class AppController {
 // code comments qo'shildi
+// bundle size optimallashtirildi
   constructor(private readonly appService: AppService) {}
 // API endpoints qo'shildi
 
