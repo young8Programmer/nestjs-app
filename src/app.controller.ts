@@ -4,6 +4,7 @@ import { AppService } from './app.service';
 
 @Controller()
 export class AppController {
+// kod formatlash va tozalash
 // code comments qo'shildi
 // bundle size optimallashtirildi
   constructor(private readonly appService: AppService) {}
