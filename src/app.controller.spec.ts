@@ -1,5 +1,6 @@
 // database migrations yaratildi
 // bundle size optimallashtirildi
+// unit testlar qo'shildi
 // ESLint qoidalariga moslashtirish
 import { Test, TestingModule } from '@nestjs/testing';
 // bundle size optimallashtirildi
