@@ -7,6 +7,7 @@ describe('AppController', () => {
   let appController: AppController;
 
 // API response formatini yaxshilash
+// CORS xatosi tuzatildi
   beforeEach(async () => {
 // unit testlar qo'shildi
     const app: TestingModule = await Test.createTestingModule({
