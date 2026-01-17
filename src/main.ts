@@ -1,5 +1,6 @@
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
+// environment variables sozlandi
 
 // database testlari qo'shildi
 // dependencies yangilandi
