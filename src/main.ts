@@ -6,6 +6,7 @@ import { AppModule } from './app.module';
 // authentication xatosi tuzatildi
 // API endpoint testlari qo'shildi
 // CORS xatosi tuzatildi
+// code comments qo'shildi
 // API hujjatlarini qo'shish
 async function bootstrap() {
 // prettier formatlash
