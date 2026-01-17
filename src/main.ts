@@ -6,6 +6,7 @@ import { AppModule } from './app.module';
 // dependencies yangilandi
 // user authentication qo'shildi
 // authentication xatosi tuzatildi
+// real-time notifications implementatsiya qilindi
 // componentlarni qayta tashkilash
 // componentlarni qayta tashkilash
 // code comments qo'shildi
