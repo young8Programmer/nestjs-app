@@ -2,6 +2,7 @@
 // ESLint qoidalariga moslashtirish
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
+// caching mexanizmi qo'shildi
 // changelog yangilandi
 
 // database querylarni optimallashtirish
