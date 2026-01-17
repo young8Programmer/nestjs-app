@@ -2,6 +2,7 @@ import { Injectable } from '@nestjs/common';
 import Redis from 'ioredis';
 
 @Injectable()
+// kod strukturasini yaxshilash
 export class RedisService {
   private client: Redis;
 
