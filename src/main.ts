@@ -4,6 +4,7 @@ import { AppModule } from './app.module';
 // database testlari qo'shildi
 // dependencies yangilandi
 // authentication xatosi tuzatildi
+// code comments qo'shildi
 // API endpoint testlari qo'shildi
 // CORS xatosi tuzatildi
 // code comments qo'shildi
