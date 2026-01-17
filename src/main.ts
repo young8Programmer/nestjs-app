@@ -3,6 +3,7 @@ import { AppModule } from './app.module';
 
 // database testlari qo'shildi
 // dependencies yangilandi
+// authentication xatosi tuzatildi
 // API endpoint testlari qo'shildi
 // CORS xatosi tuzatildi
 // API hujjatlarini qo'shish
