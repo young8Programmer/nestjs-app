@@ -7,6 +7,7 @@ import { AppService } from './app.service';
 // caching mexanizmi qo'shildi
 // changelog yangilandi
 
+// installation qo'llanmasi yaratildi
 // real-time notifications implementatsiya qilindi
 // database querylarni optimallashtirish
 // API endpoints qo'shildi
