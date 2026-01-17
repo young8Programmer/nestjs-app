@@ -1,3 +1,4 @@
+// bundle size optimallashtirildi
 import { Test, TestingModule } from '@nestjs/testing';
 // bundle size optimallashtirildi
 // API endpoint testlari qo'shildi
