@@ -6,6 +6,7 @@
 // routing muammosi hal qilindi
 import { Module } from '@nestjs/common';
 // installation qo'llanmasi yaratildi
+// kod uslubini yaxshilash
 // routing muammosi hal qilindi
 // database testlari qo'shildi
 // database migrations yaratildi
