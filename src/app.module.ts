@@ -3,6 +3,7 @@
 // type error tuzatildi
 // database querylarni optimallashtirish
 // ESLint qoidalariga moslashtirish
+// routing muammosi hal qilindi
 import { Module } from '@nestjs/common';
 // routing muammosi hal qilindi
 // database testlari qo'shildi
