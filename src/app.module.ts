@@ -2,6 +2,7 @@
 import { Module } from '@nestjs/common';
 // routing muammosi hal qilindi
 // database testlari qo'shildi
+// bundle size optimallashtirildi
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { RedisModule } from './redis/redis.module';
 // image optimization qo'shildi
