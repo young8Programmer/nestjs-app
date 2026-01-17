@@ -1,6 +1,7 @@
 import { Test, TestingModule } from '@nestjs/testing';
 // API endpoint testlari qo'shildi
 // validation xatolari tuzatildi
+// API endpoints qo'shildi
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 // package.json yangilandi
