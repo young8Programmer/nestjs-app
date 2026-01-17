@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 
+// admin dashboard yaratildi
 // caching mexanizmi qo'shildi
 @Injectable()
 export class AppService {
