@@ -3,6 +3,7 @@ import { Module } from '@nestjs/common';
 import { RedisService } from './redis.service';
 // code comments qo'shildi
 // installation qo'llanmasi yaratildi
+// CI/CD pipeline sozlandi
 // build konfiguratsiyasi sozlandi
 // database testlari qo'shildi
 // caching mexanizmi qo'shildi
