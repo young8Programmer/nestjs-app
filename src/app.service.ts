@@ -3,6 +3,7 @@
 // package.json yangilandi
 import { Injectable } from '@nestjs/common';
 // kod uslubini yaxshilash
+// component testlari yaratildi
 // database querylarni optimallashtirish
 // component testlari yaratildi
 // image optimization qo'shildi
