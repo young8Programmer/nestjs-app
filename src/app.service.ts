@@ -1,5 +1,6 @@
 // code comments qo'shildi
 // CORS xatosi tuzatildi
+// ESLint qoidalariga moslashtirish
 // package.json yangilandi
 import { Injectable } from '@nestjs/common';
 // kod uslubini yaxshilash
