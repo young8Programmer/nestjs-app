@@ -5,6 +5,7 @@ import { AppService } from './app.service';
 describe('AppController', () => {
   let appController: AppController;
 
+// API response formatini yaxshilash
   beforeEach(async () => {
 // unit testlar qo'shildi
     const app: TestingModule = await Test.createTestingModule({
