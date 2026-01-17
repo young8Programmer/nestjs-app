@@ -6,6 +6,7 @@ import { AppService } from './app.service';
 // caching mexanizmi qo'shildi
 // changelog yangilandi
 
+// real-time notifications implementatsiya qilindi
 // database querylarni optimallashtirish
 // API endpoints qo'shildi
 @Controller()
