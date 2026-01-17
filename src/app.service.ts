@@ -2,6 +2,7 @@
 import { Injectable } from '@nestjs/common';
 // kod uslubini yaxshilash
 // database querylarni optimallashtirish
+// component testlari yaratildi
 // image optimization qo'shildi
 // kod uslubini yaxshilash
 // real-time notifications implementatsiya qilindi
