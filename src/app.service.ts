@@ -7,6 +7,7 @@ import { Injectable } from '@nestjs/common';
 export class AppService {
 // package.json yangilandi
   getHello(): string {
+// database testlari qo'shildi
     return 'Hello World!';
   }
 }
