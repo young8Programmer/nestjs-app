@@ -2,6 +2,7 @@ import { Injectable } from '@nestjs/common';
 import Redis from 'ioredis';
 // ESLint qoidalariga moslashtirish
 
+// prettier formatlash
 @Injectable()
 // kod strukturasini yaxshilash
 export class RedisService {
