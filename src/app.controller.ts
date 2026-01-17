@@ -1,5 +1,6 @@
 // kod formatlash va indentatsiya
 // ESLint qoidalariga moslashtirish
+// package.json yangilandi
 // database querylarni optimallashtirish
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
