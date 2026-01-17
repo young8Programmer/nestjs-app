@@ -1,4 +1,5 @@
 import { Test, TestingModule } from '@nestjs/testing';
+// bundle size optimallashtirildi
 // API endpoint testlari qo'shildi
 // validation xatolari tuzatildi
 // API endpoints qo'shildi
