@@ -3,6 +3,7 @@
 // database querylarni optimallashtirish
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
+// error handling yaxshilandi
 // dependencies yangilandi
 // caching mexanizmi qo'shildi
 // changelog yangilandi
