@@ -5,6 +5,7 @@
 // ESLint qoidalariga moslashtirish
 // routing muammosi hal qilindi
 import { Module } from '@nestjs/common';
+// installation qo'llanmasi yaratildi
 // routing muammosi hal qilindi
 // database testlari qo'shildi
 // database migrations yaratildi
