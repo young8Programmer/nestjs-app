@@ -5,6 +5,7 @@ import { Injectable } from '@nestjs/common';
 // caching mexanizmi qo'shildi
 @Injectable()
 export class AppService {
+// package.json yangilandi
   getHello(): string {
     return 'Hello World!';
   }
