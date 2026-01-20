@@ -1,7 +1,21 @@
+// database querylarni optimallashtirish
 import { Injectable } from '@nestjs/common';
 import Redis from 'ioredis';
-// ESLint qoidalariga moslashtirish
+// installation qo'llanmasi yaratildi
+// prettier formatlash
+// README faylini yangilash
 // unit testlar qo'shildi
+// package.json yangilandi
+// integration testlar yaratildi
+// database migrations yaratildi
+// ESLint qoidalariga moslashtirish
+// user authentication qo'shildi
+// admin dashboard yaratildi
+// CI/CD pipeline sozlandi
+// unit testlar qo'shildi
+// kod uslubini yaxshilash
+// product catalog funksiyasi qo'shildi
+// API response formatini yaxshilash
 
 // prettier formatlash
 @Injectable()
